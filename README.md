@@ -1,4 +1,4 @@
-## Agenda RESTful API
+## Schedule RESTful API
 ---
 
 
